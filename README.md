@@ -22,14 +22,7 @@ Passionate about building web and mobile applications while exploring the fascin
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### Data Science & AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
 ## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhanfahrezyy&show_icons=true&theme=radical&hide_border=true)](https://github.com/yourusername)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanfahrezyy&layout=compact&theme=radical&hide_border=true)](https://github.com/yourusername)
 
 
