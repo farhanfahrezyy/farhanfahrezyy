@@ -13,7 +13,7 @@ Passionate about building web and mobile applications while exploring the fascin
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ## 📊 GitHub Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanfahrezyy&layout=compact&theme=radical&hide_border=true)](https://github.com/yourusername)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanfahrezyy&layout=compact&theme=radical&hide_border=true)](https://github.com/farhanfahrezyy)
 
 
 
