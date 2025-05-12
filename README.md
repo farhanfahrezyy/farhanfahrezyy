@@ -6,7 +6,7 @@ Passionate about building web and mobile applications while exploring the fascin
 
 ## 🛠️ Tech Stack
 <section class="my-10 px-4">
-  <h2 class="text-3xl font-bold text-center text-gray-800 mb-6">🛠️ Tech Stack</h2>
+  <h2 class="text-3xl font-bold text-center align-items text-gray-800 mb-6">🛠️ Tech Stack</h2>
 
   <div class="flex flex-wrap justify-center gap-4">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
