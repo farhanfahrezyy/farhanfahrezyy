@@ -4,7 +4,7 @@
 
 Passionate about building web and mobile applications while exploring the fascinating worlds of Artificial Intelligence and Data Science. I enjoy the entire development process, from concept to deployment.
 
-## 🛠️ Tech Stack
+
 <section class="my-10 px-4">
   <h2 class="text-3xl font-bold text-center align-items text-gray-800 mb-6">🛠️ Tech Stack</h2>
 
