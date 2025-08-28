@@ -38,16 +38,6 @@
 </div>
 
 
-
-## 💡 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhanfahrezyy&repo=project-name&theme=tokyonight&hide_border=true)](https://github.com/farhanfahrezyy/project-name)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhanfahrezyy&repo=another-project&theme=tokyonight&hide_border=true)](https://github.com/farhanfahrezyy/another-project)
-
-</div>
-
 ## 🎯 Current Goals
 
 - 🌱 Currently learning **React.js** and **Vue.js**
