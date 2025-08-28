@@ -36,7 +36,7 @@
 [![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
 
-</div>  kaya gini tapi versi berbeda
+</div>
 
 
 
