@@ -14,15 +14,30 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="html" width="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="css" width="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript" width="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="php" width="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python" width="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="csharp" width="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" alt="kotlin" width="40"/>
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![PHP](https://skillicons.dev/icons?i=php)
+![C#](https://skillicons.dev/icons?i=cs)
+![Python](https://skillicons.dev/icons?i=python)
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
+
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![.NET](https://skillicons.dev/icons?i=dotnet)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![SQLServer](https://skillicons.dev/icons?i=azure) 
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Docker](https://skillicons.dev/icons?i=docker)
 
 </div>
+
 
 
 
