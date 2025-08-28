@@ -1,34 +1,6 @@
 # Hi there, I'm Farhan! 👋
 
-<!-- Centered gradient title + typing lines (auto switch light/dark) -->
-<div align="center">
-
-  <h1 style="margin:0; font-size:40px;">
-    <span style="
-      background: linear-gradient(90deg,#8B5CF6,#06B6D4,#22C55E);
-      -webkit-background-clip:text;background-clip:text;color:transparent;">
-      Muhammad Farhan • Full-Stack Developer
-    </span>
-  </h1>
-
-  <picture>
-    <!-- Dark mode -->
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1200&color=93C5FD&center=true&vCenter=true&width=900&lines=Problem+Solver;Clean+Code+%26+Great+DX;Open+Source+Contributor;Always+Learning+%F0%9F%93%9A">
-    <!-- Light mode -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Problem+Solver;Clean+Code+%26+Great+DX;Open+Source+Contributor;Always+Learning+%F0%9F%93%9A" alt="Typing intro" />
-  </picture>
-
-  <br/>
-
-  <!-- quick badges row -->
-  <p>
-    <img alt="Focus" src="https://img.shields.io/badge/Focus-Web%20Apps-informational">
-    <img alt="Stack" src="https://img.shields.io/badge/Stack-React%20%7C%20Node%20%7C%20Go-blue">
-    <img alt="Learning" src="https://img.shields.io/badge/Learning-Cloud%20%26%20AI-success">
-  </p>
-
-</div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Problem+Solver;Code+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" /> </div>
 
 
 <div align="center">
