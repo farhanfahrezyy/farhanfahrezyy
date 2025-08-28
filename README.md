@@ -10,32 +10,6 @@
   <img src="https://img.shields.io/github/stars/farhanfahrezyy?style=for-the-badge&color=yellow" alt="Stars" />
 </div>
 
-## 🚀 About Me
-
-```javascript
-const farhan = {
-    location: "South Tangerang, Indonesia 🇮🇩",
-    role: "Full Stack Developer",
-    code: ["JavaScript", "PHP", "C#", "Python", "Java", "Kotlin"],
-    technologies: {
-        frontEnd: {
-            js: ["Vanilla JS", "Node.js"],
-            css: ["Tailwind CSS", "Bootstrap"]
-        },
-        backEnd: {
-            php: ["Laravel"],
-            csharp: [".NET Framework", ".NET Core"],
-            python: ["Django", "Flask"],
-            java: ["Spring Boot"]
-        },
-        databases: ["MySQL", "SQL Server", "PostgreSQL"],
-        misc: ["Docker", "Git", "Linux"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
-};
-```
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -47,7 +21,6 @@ const farhan = {
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### 🚀 Frameworks & Libraries
@@ -69,33 +42,6 @@ const farhan = {
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farhanfahrezyy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanfahrezyy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanfahrezyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanfahrezyy&custom_title=Farhan's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=f8d847&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farhanfahrezyy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-</div>
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ## 💡 Featured Projects
 
