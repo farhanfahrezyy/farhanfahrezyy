@@ -14,6 +14,7 @@
 
 <div align="center">
 
+  <!-- Languages -->
   <img src="https://custom-icon-badges.demolab.com/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -22,27 +23,31 @@
   <img src="https://custom-icon-badges.demolab.com/badge/C%23-239120?style=for-the-badge&logo=cs&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 
-  <br><br>
+  <br>
 
+  <!-- Frameworks -->
   <img src="https://custom-icon-badges.demolab.com/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/Node.js-43853d?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/Tailwind-38b2ac?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 
-  <br><br>
+  <br>
 
+  <!-- Databases -->
   <img src="https://custom-icon-badges.demolab.com/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-  <br><br>
+  <br>
 
+  <!-- Tools -->
   <img src="https://custom-icon-badges.demolab.com/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/VSCode-0078d4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 </div>
+
 
 
 
