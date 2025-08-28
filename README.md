@@ -10,45 +10,43 @@
   <img src="https://img.shields.io/github/stars/farhanfahrezyy?style=for-the-badge&color=yellow" alt="Stars" />
 </div>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
-[![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+  <img src="https://custom-icon-badges.demolab.com/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://custom-icon-badges.demolab.com/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23-239120?style=for-the-badge&logo=cs&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
-[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+  <br><br>
 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/sql-server)
+  <img src="https://custom-icon-badges.demolab.com/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Node.js-43853d?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Tailwind-38b2ac?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 
+  <br><br>
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+  <img src="https://custom-icon-badges.demolab.com/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
+  <br><br>
+
+  <img src="https://custom-icon-badges.demolab.com/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/VSCode-0078d4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 </div>
 
 
 
-
-## 🎯 Current Goals
-
-- 🌱 Currently learning **React.js** and **Vue.js**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love solving complex problems with elegant solutions
-
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
