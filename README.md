@@ -22,7 +22,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/C%23-239120?style=for-the-badge&logo=cs&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 
-    <!-- <br> -->
+  <br>
 
   <!-- Frameworks -->
   <img src="https://custom-icon-badges.demolab.com/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -30,14 +30,14 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Node.js-43853d?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/Tailwind-38b2ac?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 
-    <!-- <br> -->
+  <br>
 
   <!-- Databases -->
   <img src="https://custom-icon-badges.demolab.com/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-  <!-- <br> -->
+  <br>
 
   <!-- Tools -->
   <img src="https://custom-icon-badges.demolab.com/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
