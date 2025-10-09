@@ -47,7 +47,6 @@
 
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=farhanfahrezyy&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FFD700)<br/>
 
 
 
