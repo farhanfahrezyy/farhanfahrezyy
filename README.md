@@ -1,15 +1,11 @@
+<h1 align="center">Hi, I'm Farhan 👋</h1>
+
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Farhan Fahrezy — Software Engineer. Web development and AI exploration." />
+  <b>Software Engineer · Web &amp; AI</b>
 </p>
 
 <p align="center">
   I build web applications and explore AI through hands-on projects.
-</p>
-
-<p align="center">
-  <a href="https://farhanfahrezyy.github.io"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/farhanfahrezyy"><img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:farhanfahrezy04@gmail.com"><img src="https://img.shields.io/badge/Email-1E40AF?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
 
 <br />
@@ -51,6 +47,16 @@
 </p>
 
 <br />
+
+<h2 align="center">Let's connect</h2>
+
+<p align="center">
+  <a href="https://farhanfahrezyy.github.io">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/farhanfahrezyy">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:farhanfahrezy04@gmail.com">Email</a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=farhanfahrezyy&amp;label=Profile+views&amp;style=flat-square&amp;color=2563EB" alt="Profile views" />
